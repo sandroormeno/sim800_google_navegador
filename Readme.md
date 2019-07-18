@@ -13,7 +13,7 @@ Luego débenos alimentar el sim800L con 4V, por el medio de una batería lipo (1
 
 <img src='file:///C:/Users/Usuario/Desktop/html/circuito.png' width=600>
 <img src='file:///C:/Users/Usuario/Desktop/html/lipo.jpg' width=600>
-<img src="https://raw.githubusercontent.com/sandroormeno/sim800_google_navegador/master/lion.jpg' width=600>
+<img src="https://raw.githubusercontent.com/sandroormeno/sim800_google_navegador/maste/lion.jpg' width=600>
 <img src='file:///C:/Users/Usuario/Desktop/html/lm2596.jpg' width=600>
 
 <img src="https://raw.githubusercontent.com/sandroormeno/sim800_google_navegador/master/lm2596.jpg" width=700>
