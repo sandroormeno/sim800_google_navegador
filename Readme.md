@@ -12,9 +12,9 @@ Lo primero es asegurarnos que tenemos Processing en nuestro sistema. <https://Pr
 Luego débenos alimentar el sim800L con 4V, por el medio de una batería lipo (1000mA) o una Li-ion de la misma capacidad, pero mi preferido es una fuente de más de 2A y un __StepDown LM2596__, que es lo que recomienda el fabricante. Es el caso de usar baterías , se recomienda un capacitor de 1500UF en paralelo, para evitar que se reinicie cuando requería  mucho consumo de corriente, que puede llegar a picos de 1A.  Luego requerimos  un dispositivo __FTDI__, de los que hay muchos en el mercado, para comunicarnos con la PC. La conexión es cruzada. Solo necesitamos los canales TX-RX, así que cualquiera que permita hacerlo estará bien. No se requiere el canal de RESET. Luego debemos conectar la tierra, que será común entre el SIM800L, la batería y el FTDI. No se alimentará el módulo GSM con el FTDI, la corriente que puede suministrar la PC es insuficiente, para ello usaremos la baterías o mejor una fuente y el dispositivo StepDown.
 
 <img src='file:///C:/Users/Usuario/Desktop/html/circuito.png' width=600>
-<img src='file:///C:/Users/Usuario/Desktop/html/lipo.jpg' width=600>
+<img src="https://raw.githubusercontent.com/sandroormeno/sim800_google_navegador/mastre/lipo.jpg' width=600>
 <img src="https://raw.githubusercontent.com/sandroormeno/sim800_google_navegador/master/lion.jpg' width=600>
-<img src='file:///C:/Users/Usuario/Desktop/html/lm2596.jpg' width=600>
+
 
 <img src="https://raw.githubusercontent.com/sandroormeno/sim800_google_navegador/master/lm2596.jpg" width=700>
 
