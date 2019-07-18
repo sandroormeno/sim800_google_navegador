@@ -45,6 +45,7 @@ Luego el módulo nos devolverá el IP asignado.
 3.En esta etapa debemos configurar nuestra petición al servidor: 
 
 >``AT+HTTPINIT``  
+
 >``OK``  
 >``AT+HTTPPARA="CID",1``  
 >``OK``  
