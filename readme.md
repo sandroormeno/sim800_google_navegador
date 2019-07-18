@@ -13,7 +13,7 @@ Luego débenos alimentar el módulo sim800L con 4V, por el medio de una batería
 
 <img src='https://raw.githubusercontent.com/sandroormeno/sim800_google_navegador/master/circuito.png' width=600>
 <img src='https://raw.githubusercontent.com/sandroormeno/sim800_google_navegador/master/lipo.jpg' width=600>
-<img src='https://raw.githubusercontent.com/sandroormeno/sim800_google_navegador/master/lion.jpg' width=600>
+<img src='https://raw.githubusercontent.com/sandroormeno/sim800_google_navegador/master/li-ion.jpg' width=600>
 <img src='https://raw.githubusercontent.com/sandroormeno/sim800_google_navegador/master/lm2596.jpg' width=600>
 
 El proceso de conexión tiene las siguientes etapas:
