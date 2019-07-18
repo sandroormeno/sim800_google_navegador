@@ -3,6 +3,8 @@
 
 Siempre es bueno estar conectado al internet inalámbricamente.  Wifi es una solución popular, pero tiene mucho más alcance   las redes de telefonía celular. Y un dispositivo GSM como el __SIM800L__, nos permite tener internet en cualquier parte que tenga acceso a una red 2G. Pero no es de nuestra experiencia poder hacerlo fácilmente. En esta demostración se muestra el proceso. 
 
+https://youtu.be/APZqFvu6baw
+
 Con el Sim800L podemos hacer una petición ``GET`` y nos devolverá el código ``HTML`` que podemos abrir en nuestro navegador preferido. Esto se puede hacer desde cualquier aplicativo que tenga acceso al puerto __SERIAL__ y que tenga la posibilidad de codificar líneas de instrucciones en comandos `AT`. 
 
 Podemos usar Arduino.  Pero no tiene la posibilidad de abrir el navegador al terminar el proceso. Podemos usar Python, guardar toda la información en un archivo HTML; pero debemos instalarlo  y bajar alguna librería. Lo más fácil es usar processing, que afortunadamente no se instala. Pero invito a implementar este código en Arduino o Python.
